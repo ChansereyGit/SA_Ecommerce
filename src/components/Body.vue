@@ -2,7 +2,7 @@
 
     <body>
         <main>
-            <div class="banner">
+            <!-- <div class="banner">
                 <div class="container">
                     <div class="slider-container has-scrollbar">
                         <div class="slider-item">
@@ -50,7 +50,7 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="category">
                 <div class="container">
