@@ -57,7 +57,7 @@
                     <div class="category-item-container has-scrollbar">
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/dress.svg" alt="dress & frock" width="30" />
+                                <img src="/assets/images/icons/dress.svg" alt="dress & frock" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -73,7 +73,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/coat.svg" alt="winter wear" width="30" />
+                                <img src="/assets/images/icons/coat.svg" alt="winter wear" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -89,7 +89,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/glasses.svg" alt="glasses & lens" width="30" />
+                                <img src="/assets/images/icons/glasses.svg" alt="glasses & lens" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -105,7 +105,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/shorts.svg" alt="shorts & jeans" width="30" />
+                                <img src="/assets/images/icons/shorts.svg" alt="shorts & jeans" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -121,7 +121,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/tee.svg" alt="t-shirts" width="30" />
+                                <img src="/assets/images/icons/tee.svg" alt="t-shirts" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -137,7 +137,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/jacket.svg" alt="jacket" width="30" />
+                                <img src="/assets/images/icons/jacket.svg" alt="jacket" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -153,7 +153,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/watch.svg" alt="watch" width="30" />
+                                <img src="/assets/images/icons/watch.svg" alt="watch" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -169,7 +169,7 @@
 
                         <div class="category-item">
                             <div class="category-img-box">
-                                <img src="../../assets/images/icons/hat.svg" alt="hat & caps" width="30" />
+                                <img src="/assets/images/icons/hat.svg" alt="hat & caps" width="30" />
                             </div>
 
                             <div class="category-content-box">
@@ -202,7 +202,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/dress.svg" alt="clothes" width="20"
+                                            <img src="/assets/images/icons/dress.svg" alt="clothes" width="20"
                                                 height="20" class="menu-title-img" />
 
                                             <p class="menu-title">Clothes</p>
@@ -248,7 +248,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/shoes.svg" alt="footwear"
+                                            <img src="/assets/images/icons/shoes.svg" alt="footwear"
                                                 class="menu-title-img" width="20" height="20" />
 
                                             <p class="menu-title">Footwear</p>
@@ -294,7 +294,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/jewelry.svg" alt="clothes"
+                                            <img src="/assets/images/icons/jewelry.svg" alt="clothes"
                                                 class="menu-title-img" width="20" height="20" />
 
                                             <p class="menu-title">Jewelry</p>
@@ -333,7 +333,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/perfume.svg" alt="perfume"
+                                            <img src="/assets/images/icons/perfume.svg" alt="perfume"
                                                 class="menu-title-img" width="20" height="20" />
 
                                             <p class="menu-title">Perfume</p>
@@ -379,7 +379,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/cosmetics.svg" alt="cosmetics"
+                                            <img src="/assets/images/icons/cosmetics.svg" alt="cosmetics"
                                                 class="menu-title-img" width="20" height="20" />
 
                                             <p class="menu-title">Cosmetics</p>
@@ -425,7 +425,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/glasses.svg" alt="glasses"
+                                            <img src="/assets/images/icons/glasses.svg" alt="glasses"
                                                 class="menu-title-img" width="20" height="20" />
 
                                             <p class="menu-title">Glasses</p>
@@ -457,7 +457,7 @@
                                 <li class="sidebar-menu-category">
                                     <button class="sidebar-accordion-menu" data-accordion-btn>
                                         <div class="menu-title-flex">
-                                            <img src="../../assets/images/icons/bag.svg" alt="bags"
+                                            <img src="/assets/images/icons/bag.svg" alt="bags"
                                                 class="menu-title-img" width="20" height="20" />
 
                                             <p class="menu-title">Bags</p>
@@ -509,7 +509,7 @@
                                 <div class="showcase-container">
                                     <div class="showcase">
                                         <a href="#" class="showcase-img-box">
-                                            <img src="../../assets/images/products/1.jpg" alt="baby fabric shoes"
+                                            <img src="/assets/images/products/1.jpg" alt="baby fabric shoes"
                                                 width="75" height="75" class="showcase-img" />
                                         </a>
 
@@ -535,7 +535,7 @@
 
                                     <div class="showcase">
                                         <a href="#" class="showcase-img-box">
-                                            <img src="../../assets/images/products/2.jpg" alt="men's hoodies t-shirt"
+                                            <img src="/assets/images/products/2.jpg" alt="men's hoodies t-shirt"
                                                 class="showcase-img" width="75" height="75" />
                                         </a>
 
@@ -560,7 +560,7 @@
 
                                     <div class="showcase">
                                         <a href="#" class="showcase-img-box">
-                                            <img src="../../assets/images/products/3.jpg" alt="girls t-shirt"
+                                            <img src="/assets/images/products/3.jpg" alt="girls t-shirt"
                                                 class="showcase-img" width="75" height="75" />
                                         </a>
 
@@ -585,7 +585,7 @@
 
                                     <div class="showcase">
                                         <a href="#" class="showcase-img-box">
-                                            <img src="../../assets/images/products/4.jpg" alt="woolen hat for men"
+                                            <img src="/assets/images/products/4.jpg" alt="woolen hat for men"
                                                 class="showcase-img" width="75" height="75" />
                                         </a>
 
@@ -671,14 +671,14 @@
                             <h2 class="title">testimonial</h2>
 
                             <div class="testimonial-card">
-                                <img src="../../assets/images/testimonial-1.jpg" alt="alan doe"
+                                <img src="/assets/images/testimonial-1.jpg" alt="alan doe"
                                     class="testimonial-banner" width="80" height="80" />
 
                                 <p class="testimonial-name">Alan Doe</p>
 
                                 <p class="testimonial-title">CEO & Founder Invision</p>
 
-                                <img src="../../assets/images/icons/quotes.svg" alt="quotation" class="quotation-img"
+                                <img src="/assets/images/icons/quotes.svg" alt="quotation" class="quotation-img"
                                     width="26" />
 
                                 <p class="testimonial-desc">
@@ -688,7 +688,7 @@
                         </div>
 
                         <div class="cta-container">
-                            <img src="../../assets/images/cta-banner.jpg" alt="summer collection" class="cta-banner" />
+                            <img src="/assets/images/cta-banner.jpg" alt="summer collection" class="cta-banner" />
 
                             <a href="#" class="cta-content">
                                 <p class="discount">30% Discount</p>
@@ -770,7 +770,7 @@
                     <div class="blog-container has-scrollbar">
                         <div class="blog-card">
                             <a href="#">
-                                <img src="../../assets/images/blog-1.jpeg"
+                                <img src="/assets/images/blog-1.jpeg"
                                     alt="Clothes Retail KPIs 2021 Guide for Clothes Executives" width="300"
                                     class="blog-banner" />
                             </a>
@@ -789,7 +789,7 @@
 
                         <div class="blog-card">
                             <a href="#">
-                                <img src="../../assets/images/blog-2.jpeg"
+                                <img src="/assets/images/blog-2.jpeg"
                                     alt="Curbside fashion Trends: How to Win the Pickup Battle." class="blog-banner"
                                     width="300" />
                             </a>
@@ -809,7 +809,7 @@
 
                         <div class="blog-card">
                             <a href="#">
-                                <img src="../../assets/images/blog-3.jpeg"
+                                <img src="/assets/images/blog-3.jpeg"
                                     alt="EBT vendors: Claim Your Share of SNAP Online Revenue." class="blog-banner"
                                     width="300" />
                             </a>
@@ -829,7 +829,7 @@
 
                         <div class="blog-card">
                             <a href="#">
-                                <img src="../../assets/images/blog-4.jpeg"
+                                <img src="/assets/images/blog-4.jpeg"
                                     alt="Curbside fashion Trends: How to Win the Pickup Battle." class="blog-banner"
                                     width="300" />
                             </a>
