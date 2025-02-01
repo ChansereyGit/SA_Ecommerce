@@ -177,7 +177,7 @@
 
     <div class="footer-bottom">
       <div class="container">
-        <img src="../../assets/images/payment.png" alt="payment method" class="payment-img" />
+        <img src="/assets/images/payment.png" alt="payment method" class="payment-img" />
       </div>
     </div>
   </footer>
