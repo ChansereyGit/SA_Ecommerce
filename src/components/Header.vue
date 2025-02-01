@@ -175,9 +175,9 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">
+                  <!-- <a href="#">
                     <img src="../../assets/images/mens-banner.jpg" alt="men's fashion" width="250" height="119" />
-                  </a>
+                  </a> -->
                 </li>
               </ul>
 
@@ -207,9 +207,9 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">
+                  <!-- <a href="#">
                     <img src="../../assets/images/womens-banner.jpg" alt="women's fashion" width="250" height="119" />
-                  </a>
+                  </a> -->
                 </li>
               </ul>
 
@@ -239,10 +239,10 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">
+                  <!-- <a href="#">
                     <img src="../../assets/images/electronics-banner-2.jpg" alt="mouse collection" width="250"
                       height="119" />
-                  </a>
+                  </a> -->
                 </li>
               </ul>
             </div>
