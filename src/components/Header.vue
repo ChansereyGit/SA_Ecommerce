@@ -142,10 +142,10 @@
                 </li>
 
                 <li class="panel-list-item">
-                  <a href="#">
+                  <!-- <a href="#">
                     <img src="./assets/images/electronics-banner-1.jpg" alt="headphone collection" width="250"
                       height="119" />
-                  </a>
+                  </a> -->
                 </li>
               </ul>
 
@@ -208,7 +208,7 @@
 
                 <li class="panel-list-item">
                   <a href="#">
-                    <img src="./assets/images/womens-banner.jpg" alt="women's fashion" width="250" height="119" />
+                    <img src="../../assets/images/womens-banner.jpg" alt="women's fashion" width="250" height="119" />
                   </a>
                 </li>
               </ul>
@@ -240,7 +240,7 @@
 
                 <li class="panel-list-item">
                   <a href="#">
-                    <img src="./assets/images/electronics-banner-2.jpg" alt="mouse collection" width="250"
+                    <img src="../../assets/images/electronics-banner-2.jpg" alt="mouse collection" width="250"
                       height="119" />
                   </a>
                 </li>
