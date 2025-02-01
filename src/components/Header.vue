@@ -74,9 +74,9 @@
 
     <div class="header-main">
       <div class="container">
-        <a href="#" class="header-logo">
+        <!-- <a href="#" class="header-logo">
           <img src="../../assets/images/logo/logo.png" alt="ByteWebster's logo" width="100%" height="120" />
-        </a>
+        </a> -->
 
         <div class="header-search-container">
           <input type="search" name="search" class="search-field" placeholder="Search product..." />
